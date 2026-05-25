@@ -1,3 +1,5 @@
+NEW REPO: https://github.com/coyami-ke/TUFHelper/releases
+
 # Overview
 - Access TUF Levels in ADOFAI! TUF 레벨을 얼불춤에서!
 - Shortcut: Ctrl + Shift + U
