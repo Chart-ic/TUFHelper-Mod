@@ -1,3 +1,5 @@
+NEW REPO: https://github.com/coyami-ke/TUFHelper/releases
+
 # Overview
 - TUF 레벨을 얼불춤에서 즐겨보세요!
 - 바로가기 키: Ctrl + Shift + U
